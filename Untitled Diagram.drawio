@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1238" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1651" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -48,9 +48,7 @@
             <mxPoint x="475.5" y="544" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="766" y="540" />
-              <mxPoint x="766" y="1060" />
-              <mxPoint x="460" y="1060" />
-              <mxPoint x="460" y="1061" />
+              <mxPoint x="766" y="941" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -249,11 +247,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVA-J4DJsALZK4xITIVb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uZs7k4-zoeYezZEtZpp2-72" target="uZs7k4-zoeYezZEtZpp2-76" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ABfFaqTmnAIXufkjHRF4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uZs7k4-zoeYezZEtZpp2-72" target="ABfFaqTmnAIXufkjHRF4-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="399" y="970" />
+              <mxPoint x="399" y="970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uZs7k4-zoeYezZEtZpp2-72" value="Output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="328.5" y="1040" width="140" height="30" as="geometry" />
+          <mxGeometry x="328.5" y="920" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uZs7k4-zoeYezZEtZpp2-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -289,28 +292,26 @@
             <mxPoint x="170" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ABfFaqTmnAIXufkjHRF4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ABfFaqTmnAIXufkjHRF4-0" target="uZs7k4-zoeYezZEtZpp2-72">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="402" y="1010" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ABfFaqTmnAIXufkjHRF4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ABfFaqTmnAIXufkjHRF4-0" target="uZs7k4-zoeYezZEtZpp2-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="670" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="61" y="960" />
+              <mxPoint x="61" y="1020" />
               <mxPoint x="61" y="675" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ABfFaqTmnAIXufkjHRF4-0" value="Jika ingin menghitung kembali&lt;div&gt;y/n&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="337" y="918" width="123" height="80" as="geometry" />
+        <mxCell id="ABfFaqTmnAIXufkjHRF4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ABfFaqTmnAIXufkjHRF4-0" target="uZs7k4-zoeYezZEtZpp2-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ABfFaqTmnAIXufkjHRF4-13" value="tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="395" y="998" width="50" height="30" as="geometry" />
+        <mxCell id="ABfFaqTmnAIXufkjHRF4-0" value="Jika ingin menghitung kembali&lt;div&gt;y/n&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="337" y="980" width="123" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ABfFaqTmnAIXufkjHRF4-16" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="930" width="40" height="30" as="geometry" />
+          <mxGeometry x="190" y="1000" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABfFaqTmnAIXufkjHRF4-20" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="1070" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
