@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="786" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1238" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -42,13 +42,15 @@
         <mxCell id="uZs7k4-zoeYezZEtZpp2-9" value="Input Pilihan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="410" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uZs7k4-zoeYezZEtZpp2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="uZs7k4-zoeYezZEtZpp2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uZs7k4-zoeYezZEtZpp2-14" target="uZs7k4-zoeYezZEtZpp2-72" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="452.25" y="1061" as="targetPoint" />
-            <mxPoint x="477.75" y="675" as="sourcePoint" />
+            <mxPoint x="450" y="930" as="targetPoint" />
+            <mxPoint x="475.5" y="544" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="768" y="675" />
-              <mxPoint x="768" y="1061" />
+              <mxPoint x="766" y="540" />
+              <mxPoint x="766" y="1060" />
+              <mxPoint x="460" y="1060" />
+              <mxPoint x="460" y="1061" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -71,7 +73,7 @@
           <mxGeometry x="320" y="640" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uZs7k4-zoeYezZEtZpp2-21" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="650" width="40" height="30" as="geometry" />
+          <mxGeometry x="590" y="520" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uZs7k4-zoeYezZEtZpp2-23" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
